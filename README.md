@@ -1,29 +1,25 @@
 # Jaeeun (Ludy) Park
 
-**Kotlin backend engineer** building dependable services for payments, distributed systems, and production operations.
+**Backend engineer working mainly with Kotlin and Spring Boot.**
 
-I have 5+ years of backend experience across mobility, connected-device, IoT, and payment flows. I build with Kotlin and Spring Boot, care about making state explicit when external systems are uncertain, and use production evidence to improve reliability.
+I have 5+ years of experience building backend services for payments, mobility, and connected-device products. Most of my work has involved making asynchronous flows easier to recover, keeping service state understandable, and investigating problems that only show up in production.
 
-## What I work with
+## Stack
 
 `Kotlin` · `Spring Boot` · `PostgreSQL` · `AWS` · `EKS` · `Kubernetes` · `MQTT` · `Docker`
 
-## Selected work
+## Work notes
 
-- **[Portfolio Case Studies](https://ludypark.github.io/case-studies.html)** — Generalized production experience in payment correctness, distributed mobility and IoT systems, and backend reliability, including failure modes and design trade-offs.
-- **[Kotlin Payment Workflow Reference](https://github.com/LudyPark/payment-reconciliation-lab)** — A small supporting artifact for idempotency, response-loss recovery, and query-only reconciliation; it is not presented as a substitute for production experience.
+- **[Case studies](https://ludypark.github.io/case-studies.html)** — Notes on payment processing, MQTT-based systems, and production troubleshooting. Company names, internal identifiers, and non-public metrics are intentionally left out.
+- **[Payment workflow reference](https://github.com/LudyPark/payment-reconciliation-lab)** — A small Kotlin example of idempotent payment handling and recovery when an external response is missing. It is a supporting example, not a replacement for production experience.
 
-The public case studies deliberately exclude employer-specific system identifiers, source code, customer data, and non-public operating metrics.
+## Areas I have worked in
 
-## Highlights
-
-- Built and operated backend services for high-volume mobility and connected-device workflows.
-- Supported multi-region payment functionality and asynchronous transaction recovery.
-- Reduced recurring cloud API usage after operational analysis and led framework upgrades across several production services.
+- Payment flows with retries, delayed callbacks, and recovery paths.
+- Backend services for mobility and connected-device workloads.
+- Production incident investigation, cloud-cost analysis, and framework upgrades.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ludy-jaeeun-park/)
-- [Portfolio home](https://ludypark.github.io)
-
-Open to backend opportunities in Canada — Vancouver / BC preferred.
+- [Portfolio](https://ludypark.github.io)
