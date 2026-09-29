@@ -10,8 +10,8 @@ I have 5+ years of backend experience across mobility, connected-vehicle, IoT, a
 
 ## Selected work
 
-- **[Kotlin Payment Workflow Reference](https://github.com/LudyPark/payment-reconciliation-lab)** — Executable Kotlin reference for idempotent payment initiation, response-loss recovery, and query-only reconciliation.
-- **[Portfolio](https://ludypark.github.io)** — Short case studies on payment correctness, high-volume mobility services, and production reliability.
+- **[Portfolio Case Studies](https://ludypark.github.io/case-studies.html)** — Production experience in payment correctness, distributed mobility and IoT systems, and backend reliability, including failure modes and design trade-offs.
+- **[Kotlin Payment Workflow Reference](https://github.com/LudyPark/payment-reconciliation-lab)** — A small supporting artifact for idempotency, response-loss recovery, and query-only reconciliation; it is not presented as a substitute for production experience.
 
 ## Highlights
 
@@ -22,6 +22,6 @@ I have 5+ years of backend experience across mobility, connected-vehicle, IoT, a
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ludy-jaeeun-park/)
-- [Portfolio](https://ludypark.github.io)
+- [Portfolio home](https://ludypark.github.io)
 
 Open to backend opportunities in Canada — Vancouver / BC preferred.
