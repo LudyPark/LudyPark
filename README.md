@@ -10,7 +10,7 @@ I have 5+ years of backend experience across mobility, connected-vehicle, IoT, a
 
 ## Selected work
 
-- **[Payment Reconciliation Lab](https://github.com/LudyPark/payment-reconciliation-lab)** — A dependency-free Kotlin example of idempotent payment initiation and reconciliation after an uncertain gateway response.
+- **[Kotlin Payment Workflow Reference](https://github.com/LudyPark/payment-reconciliation-lab)** — Executable Kotlin reference for idempotent payment initiation, response-loss recovery, and query-only reconciliation.
 - **[Portfolio](https://ludypark.github.io)** — Short case studies on payment correctness, high-volume mobility services, and production reliability.
 
 ## Highlights
