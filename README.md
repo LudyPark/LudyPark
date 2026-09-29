@@ -1,8 +1,8 @@
-# Jaeeun (Ludy) Park
+# Jaeeun Park
 
 **Backend engineer working mainly with Kotlin and Spring Boot.**
 
-I have 5+ years of experience building backend services for payments, mobility, and connected-device products. Most of my work has involved making asynchronous flows easier to recover, keeping service state understandable, and investigating problems that only show up in production.
+I have 5+ years of experience building and operating backend services across mobility, connected-device, platform, and payment workflows. My core work has been distributed message handling, service operations, and making production failures easier to diagnose and recover from.
 
 ## Stack
 
@@ -10,14 +10,15 @@ I have 5+ years of experience building backend services for payments, mobility, 
 
 ## Work notes
 
-- **[Case studies](https://ludypark.github.io/case-studies.html)** — Notes on payment processing, MQTT-based systems, and production troubleshooting. Company names, internal identifiers, and non-public metrics are intentionally left out.
-- **[Payment workflow reference](https://github.com/LudyPark/payment-reconciliation-lab)** — A small Kotlin example of idempotent payment handling and recovery when an external response is missing. It is a supporting example, not a replacement for production experience.
+- **[Case studies](https://ludypark.github.io/case-studies.html)** — Generalized notes on real-time messaging, production engineering, and payment-state recovery. Company names, internal identifiers, and non-public metrics are intentionally left out.
+- **[Payment workflow reference](https://github.com/LudyPark/payment-reconciliation-lab)** — A small independent Kotlin example for one payment-recovery scenario. It supports the case study; it is not my primary portfolio project or a replacement for production experience.
 
 ## Areas I have worked in
 
-- Payment flows with retries, delayed callbacks, and recovery paths.
-- Backend services for mobility and connected-device workloads.
+- Kotlin/Spring backend services for mobility and connected-device workloads.
+- Distributed message handling, connection lifecycle, and operational recovery.
 - Production incident investigation, cloud-cost analysis, and framework upgrades.
+- Payment flows with callbacks, retries, and recovery paths.
 
 ## Connect
 
